@@ -1,0 +1,20 @@
+{
+    "name": "adapt-screenshot",
+    "version": "2.0.0",
+    "framework": "^2.0.0",
+    "homepage": "https://github.com/adaptlearning/adapt-screenshot",
+    "authors": [
+        "Amruta Thakur <amruta.thakur@exultcorp.com>",
+        "Chetan Hajare <chetan.hajare@exultcorp.com>"
+     ],
+    "displayName": "Screenshot",
+    "extension": "adapt-screenshot",
+    "description": "An extension to take screenshot",
+    "main": "/js/adapt-screenshot.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3",
+    "targetAttribute": "_screenshot"
+}
